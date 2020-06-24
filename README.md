@@ -1,6 +1,6 @@
 # SDT ALGORİTMA ALIŞTIRMALARI DEPOSU
 ![SDT](source.gif)
-## Klasörler
+## KLASÖRLER
 Klasörlerimiz "kolay, orta ve zor" şekilde ayrılmaktadır. Seviyenize göre uygun klasöre girip soruları çözmeye çalışabilirsiniz.
 
 ## Çözüm Ekleyebilir Miyiz?
