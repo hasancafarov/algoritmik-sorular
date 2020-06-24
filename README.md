@@ -9,7 +9,7 @@ Yeni bir branch oluşturup cevaplarınızı ana repoya ekleyebilirsiniz. Dilerse
 ## Nasıl Soru Ekleyebiliriz?
 Projeyi önce forklamanız ardından kendi bilgisayarınıza indirmeniz gerekmekte. Sonrasında ilgili seviyeye ait klasöre girip, kullanıcı adınızı veya kullandığınız kaynağın domainini klasör adı yapıp markdown dosyası oluşturarak sorularınızı içerisine yazabilirsiniz. Örneğin:
 ```bash
-$ cd /kolay
+$ cd kolay
 $ mkdir omerayyildiz.com
 $ cd omerayyildiz.com
 $ touch sorular.md
